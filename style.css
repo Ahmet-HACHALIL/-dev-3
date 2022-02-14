@@ -1,0 +1,65 @@
+/****************************** Body ******************************/
+
+body{
+    width: 88.5%;
+    margin: auto;
+    text-align: center;
+}
+
+/****************************** Logo ******************************/
+
+img {
+    margin-top: 8px;
+}
+
+/****************************** 2. Div (kısım) ******************************/
+
+.text_field {
+    width: 310px;
+}
+
+.search {
+    background-color: #EEEEEE;
+}
+
+/****************************** 3. Div (kısım) ******************************/
+
+#first_column {
+    width: 37%;
+    background-color: #7EE5DA;
+    padding: 11px 0;
+    float: left;
+}
+
+#seconed_column {
+    background-color: #70CCC2;
+    float: left;
+    margin-left: 2px;
+    font-size: 13px;
+    padding: 6px 78px;
+}
+
+#third_column {
+    background-color: #62B3AA;
+    margin-left: 2px;
+    padding: 1px 173px;
+    font-size: 13px;
+    float: left;
+}
+
+/****************************** Footer ******************************/
+
+.footer {
+    font-size: 13px;
+    padding: 94px;
+}
+
+/****************************** Links ******************************/
+
+a {
+    color: blue;
+}
+
+a:active {
+    color: red;
+}
